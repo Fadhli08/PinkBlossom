@@ -1,0 +1,4 @@
+Red Rose,Roses,2024-11-05,50,30
+Pink Vision,Tulips,2024-11-26,60,40
+Roma lily,Lilies,2024-11-18,60,80
+Dendrobium,Orchids,2024-11-14,60,40
